@@ -1,6 +1,13 @@
-
+## 3,1
 ![alt text](image-1.png)
 ![alt text](image.png)
+
+## 3.2
+
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+can't even run it bruh
 
 # YewChat 💬
 
